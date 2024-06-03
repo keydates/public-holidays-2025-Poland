@@ -1,0 +1,60 @@
+{
+  "product": "Poland Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-20T12:00:00",
+      "endDate": "2025-04-20T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of the resurrection of Jesus"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of workers and labor movements"
+    },
+    {
+      "title": "Constitution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-03T12:00:00",
+      "endDate": "2025-05-03T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the Polish Constitution"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-11T12:00:00",
+      "endDate": "2025-11-11T12:00:00",
+      "source": "Government of Poland",
+      "product": "Poland Public Holidays 2025",
+      "style": "white",
+      "description": "Celebration of Poland's independence"
+    }
+  ]
+}
